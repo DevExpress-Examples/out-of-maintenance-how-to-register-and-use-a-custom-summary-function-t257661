@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.aspx.cs](./CS/RegisterSummaryFunctionExample/MainForm.aspx.cs) (VB: [MainForm.aspx.vb](./VB/RegisterSummaryFunctionExample/MainForm.aspx.vb))**
+<!-- default file list end -->
 # How to register and use a custom summary function
 
 
